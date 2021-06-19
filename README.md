@@ -40,7 +40,7 @@ The screenshots were created to the following widths:
 
 ### Links
 
-- Solution URL: [Not up to date]()
+- Solution URL: [https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/card-component-with-flexbox-xv9GnIXsL](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/card-component-with-flexbox-xv9GnIXsL)
 - Live Site URL: [https://profcitron.github.io/frontendmentor-StatsPreviewCardComponent/](https://profcitron.github.io/frontendmentor-StatsPreviewCardComponent/)
 
 ## My process
